@@ -27,7 +27,7 @@ Download the two program files
            - `sudo nano /home/pi/.bashrc`
              - add these two lines at the end
                - `echo running at boot`
-               - `python /home/pi/Desktop/interfere.py`
+               - `python /home/pi/Desktop/joker_runner.py`
            - `sudo nano /etc/xdg/lxsession/LXDE-pi/autostart`
              - add this after the last line:
                - `lxterminal`
